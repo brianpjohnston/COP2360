@@ -1,0 +1,9 @@
+C:\Users\tech140\Documents\School\IntroToCSharp\unit3\ch7test\ch7test\bin\Debug\ch7test.exe.config
+C:\Users\tech140\Documents\School\IntroToCSharp\unit3\ch7test\ch7test\bin\Debug\ch7test.exe
+C:\Users\tech140\Documents\School\IntroToCSharp\unit3\ch7test\ch7test\bin\Debug\ch7test.pdb
+C:\Users\tech140\Documents\School\IntroToCSharp\unit3\ch7test\ch7test\obj\Debug\ch7test.csprojResolveAssemblyReference.cache
+C:\Users\tech140\Documents\School\IntroToCSharp\unit3\ch7test\ch7test\obj\Debug\ch7test.Form1.resources
+C:\Users\tech140\Documents\School\IntroToCSharp\unit3\ch7test\ch7test\obj\Debug\ch7test.Properties.Resources.resources
+C:\Users\tech140\Documents\School\IntroToCSharp\unit3\ch7test\ch7test\obj\Debug\ch7test.csproj.GenerateResource.Cache
+C:\Users\tech140\Documents\School\IntroToCSharp\unit3\ch7test\ch7test\obj\Debug\ch7test.exe
+C:\Users\tech140\Documents\School\IntroToCSharp\unit3\ch7test\ch7test\obj\Debug\ch7test.pdb

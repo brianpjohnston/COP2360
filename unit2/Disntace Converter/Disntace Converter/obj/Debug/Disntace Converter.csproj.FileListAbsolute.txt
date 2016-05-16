@@ -1,0 +1,12 @@
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\Disntace Converter\Disntace Converter\bin\Debug\Disntace Converter.exe.config
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\Disntace Converter\Disntace Converter\obj\Debug\Disntace Converter.csprojResolveAssemblyReference.cache
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\Disntace Converter\Disntace Converter\obj\Debug\Disntace_Converter.Form1.resources
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\Disntace Converter\Disntace Converter\obj\Debug\Disntace_Converter.Properties.Resources.resources
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\Disntace Converter\Disntace Converter\obj\Debug\Disntace Converter.csproj.GenerateResource.Cache
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\Disntace Converter\Disntace Converter\bin\Debug\Disntace Converter.exe
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\Disntace Converter\Disntace Converter\bin\Debug\Disntace Converter.pdb
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\Disntace Converter\Disntace Converter\obj\Debug\Disntace Converter.exe
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\Disntace Converter\Disntace Converter\obj\Debug\Disntace Converter.pdb
+C:\Users\tech140\Google Drive\School\Old classes\IntroToCSharp\unit2\Disntace Converter\Disntace Converter\bin\Debug\Disntace Converter.exe.config
+C:\Users\tech140\Google Drive\School\Old classes\IntroToCSharp\unit2\Disntace Converter\Disntace Converter\obj\Debug\Disntace Converter.exe
+C:\Users\tech140\Google Drive\School\Old classes\IntroToCSharp\unit2\Disntace Converter\Disntace Converter\obj\Debug\Disntace Converter.pdb

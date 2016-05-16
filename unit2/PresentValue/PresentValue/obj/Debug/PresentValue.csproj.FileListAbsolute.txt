@@ -1,0 +1,9 @@
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\PresentValue\PresentValue\bin\Debug\PresentValue.exe.config
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\PresentValue\PresentValue\bin\Debug\PresentValue.exe
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\PresentValue\PresentValue\bin\Debug\PresentValue.pdb
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\PresentValue\PresentValue\obj\Debug\PresentValue.csprojResolveAssemblyReference.cache
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\PresentValue\PresentValue\obj\Debug\PresentValue.Form1.resources
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\PresentValue\PresentValue\obj\Debug\PresentValue.Properties.Resources.resources
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\PresentValue\PresentValue\obj\Debug\PresentValue.csproj.GenerateResource.Cache
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\PresentValue\PresentValue\obj\Debug\PresentValue.exe
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\PresentValue\PresentValue\obj\Debug\PresentValue.pdb

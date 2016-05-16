@@ -1,0 +1,8 @@
+C:\Users\tech140\Documents\School\IntroToCSharp\Language Translator\Language Translator\bin\Debug\Language Translator.exe.config
+C:\Users\tech140\Documents\School\IntroToCSharp\Language Translator\Language Translator\bin\Debug\Language Translator.exe
+C:\Users\tech140\Documents\School\IntroToCSharp\Language Translator\Language Translator\bin\Debug\Language Translator.pdb
+C:\Users\tech140\Documents\School\IntroToCSharp\Language Translator\Language Translator\obj\Debug\Language_Translator.Form1.resources
+C:\Users\tech140\Documents\School\IntroToCSharp\Language Translator\Language Translator\obj\Debug\Language_Translator.Properties.Resources.resources
+C:\Users\tech140\Documents\School\IntroToCSharp\Language Translator\Language Translator\obj\Debug\Language Translator.csproj.GenerateResource.Cache
+C:\Users\tech140\Documents\School\IntroToCSharp\Language Translator\Language Translator\obj\Debug\Language Translator.exe
+C:\Users\tech140\Documents\School\IntroToCSharp\Language Translator\Language Translator\obj\Debug\Language Translator.pdb

@@ -1,0 +1,9 @@
+C:\Users\tech140\Documents\School\IntroToCSharp\unit3\NameSearch\NameSearch\bin\Debug\NameSearch.exe.config
+C:\Users\tech140\Documents\School\IntroToCSharp\unit3\NameSearch\NameSearch\bin\Debug\NameSearch.exe
+C:\Users\tech140\Documents\School\IntroToCSharp\unit3\NameSearch\NameSearch\bin\Debug\NameSearch.pdb
+C:\Users\tech140\Documents\School\IntroToCSharp\unit3\NameSearch\NameSearch\obj\Debug\NameSearch.csprojResolveAssemblyReference.cache
+C:\Users\tech140\Documents\School\IntroToCSharp\unit3\NameSearch\NameSearch\obj\Debug\NameSearch.Form1.resources
+C:\Users\tech140\Documents\School\IntroToCSharp\unit3\NameSearch\NameSearch\obj\Debug\NameSearch.Properties.Resources.resources
+C:\Users\tech140\Documents\School\IntroToCSharp\unit3\NameSearch\NameSearch\obj\Debug\NameSearch.csproj.GenerateResource.Cache
+C:\Users\tech140\Documents\School\IntroToCSharp\unit3\NameSearch\NameSearch\obj\Debug\NameSearch.exe
+C:\Users\tech140\Documents\School\IntroToCSharp\unit3\NameSearch\NameSearch\obj\Debug\NameSearch.pdb

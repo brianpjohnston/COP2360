@@ -1,0 +1,21 @@
+C:\Users\Myron\Desktop\Intro to C# Programming\Projects\Morse Code Converter\Morse Code Converter\bin\Debug\Morse Code Converter.exe.config
+C:\Users\Myron\Desktop\Intro to C# Programming\Projects\Morse Code Converter\Morse Code Converter\bin\Debug\Morse Code Converter.exe
+C:\Users\Myron\Desktop\Intro to C# Programming\Projects\Morse Code Converter\Morse Code Converter\bin\Debug\Morse Code Converter.pdb
+C:\Users\Myron\Desktop\Intro to C# Programming\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.csprojResolveAssemblyReference.cache
+C:\Users\Myron\Desktop\Intro to C# Programming\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse_Code_Converter.Form1.resources
+C:\Users\Myron\Desktop\Intro to C# Programming\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse_Code_Converter.Properties.Resources.resources
+C:\Users\Myron\Desktop\Intro to C# Programming\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.csproj.GenerateResource.Cache
+C:\Users\Myron\Desktop\Intro to C# Programming\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.exe
+C:\Users\Myron\Desktop\Intro to C# Programming\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.pdb
+C:\Users\tech140\Desktop\morse\Morse Code Converter\Morse Code Converter\bin\Debug\Morse Code Converter.exe.config
+C:\Users\tech140\Desktop\morse\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.exe
+C:\Users\tech140\Desktop\morse\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.pdb
+C:\Users\tech140\Desktop\morse\Morse Code Converter\Morse Code Converter\bin\Debug\Morse Code Converter.exe
+C:\Users\tech140\Desktop\morse\Morse Code Converter\Morse Code Converter\bin\Debug\Morse Code Converter.pdb
+C:\Users\tech140\Desktop\morse\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.csprojResolveAssemblyReference.cache
+C:\Users\tech140\Desktop\morse\Morse Code Converter\Morse Code Converter\obj\Debug\Morse_Code_Converter.Form1.resources
+C:\Users\tech140\Desktop\morse\Morse Code Converter\Morse Code Converter\obj\Debug\Morse_Code_Converter.Properties.Resources.resources
+C:\Users\tech140\Desktop\morse\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.csproj.GenerateResource.Cache
+C:\Users\tech140\Google Drive\School\Old classes\IntroToCSharp\Unit4\morse\Morse Code Converter\Morse Code Converter\bin\Debug\Morse Code Converter.exe.config
+C:\Users\tech140\Google Drive\School\Old classes\IntroToCSharp\Unit4\morse\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.exe
+C:\Users\tech140\Google Drive\School\Old classes\IntroToCSharp\Unit4\morse\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.pdb

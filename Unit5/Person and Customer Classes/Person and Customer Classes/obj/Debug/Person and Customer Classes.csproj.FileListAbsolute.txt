@@ -1,0 +1,18 @@
+C:\Users\Myron\Desktop\Intro to C# Programming\Projects\Person and Customer Classes\Person and Customer Classes\bin\Debug\Person and Customer Classes.exe.config
+C:\Users\Myron\Desktop\Intro to C# Programming\Projects\Person and Customer Classes\Person and Customer Classes\bin\Debug\Person and Customer Classes.exe
+C:\Users\Myron\Desktop\Intro to C# Programming\Projects\Person and Customer Classes\Person and Customer Classes\bin\Debug\Person and Customer Classes.pdb
+C:\Users\Myron\Desktop\Intro to C# Programming\Projects\Person and Customer Classes\Person and Customer Classes\obj\Debug\Person and Customer Classes.csprojResolveAssemblyReference.cache
+C:\Users\Myron\Desktop\Intro to C# Programming\Projects\Person and Customer Classes\Person and Customer Classes\obj\Debug\Person_and_Customer_Classes.Form1.resources
+C:\Users\Myron\Desktop\Intro to C# Programming\Projects\Person and Customer Classes\Person and Customer Classes\obj\Debug\Person_and_Customer_Classes.Properties.Resources.resources
+C:\Users\Myron\Desktop\Intro to C# Programming\Projects\Person and Customer Classes\Person and Customer Classes\obj\Debug\Person and Customer Classes.csproj.GenerateResource.Cache
+C:\Users\Myron\Desktop\Intro to C# Programming\Projects\Person and Customer Classes\Person and Customer Classes\obj\Debug\Person and Customer Classes.exe
+C:\Users\Myron\Desktop\Intro to C# Programming\Projects\Person and Customer Classes\Person and Customer Classes\obj\Debug\Person and Customer Classes.pdb
+C:\Users\tech140\Downloads\Person and Customer Classes\Person and Customer Classes\bin\Debug\Person and Customer Classes.exe.config
+C:\Users\tech140\Downloads\Person and Customer Classes\Person and Customer Classes\obj\Debug\Person and Customer Classes.exe
+C:\Users\tech140\Downloads\Person and Customer Classes\Person and Customer Classes\obj\Debug\Person and Customer Classes.pdb
+C:\Users\tech140\Downloads\Person and Customer Classes\Person and Customer Classes\bin\Debug\Person and Customer Classes.exe
+C:\Users\tech140\Downloads\Person and Customer Classes\Person and Customer Classes\bin\Debug\Person and Customer Classes.pdb
+C:\Users\tech140\Downloads\Person and Customer Classes\Person and Customer Classes\obj\Debug\Person and Customer Classes.csprojResolveAssemblyReference.cache
+C:\Users\tech140\Downloads\Person and Customer Classes\Person and Customer Classes\obj\Debug\Person_and_Customer_Classes.Form1.resources
+C:\Users\tech140\Downloads\Person and Customer Classes\Person and Customer Classes\obj\Debug\Person_and_Customer_Classes.Properties.Resources.resources
+C:\Users\tech140\Downloads\Person and Customer Classes\Person and Customer Classes\obj\Debug\Person and Customer Classes.csproj.GenerateResource.Cache

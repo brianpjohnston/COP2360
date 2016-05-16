@@ -1,0 +1,9 @@
+C:\Users\tech140\Documents\School\IntroToCSharp\changecounter\changecounter\bin\Debug\changecounter.exe.config
+C:\Users\tech140\Documents\School\IntroToCSharp\changecounter\changecounter\obj\Debug\changecounter.csprojResolveAssemblyReference.cache
+C:\Users\tech140\Documents\School\IntroToCSharp\changecounter\changecounter\obj\Debug\changecounter.Form1.resources
+C:\Users\tech140\Documents\School\IntroToCSharp\changecounter\changecounter\obj\Debug\changecounter.Properties.Resources.resources
+C:\Users\tech140\Documents\School\IntroToCSharp\changecounter\changecounter\obj\Debug\changecounter.csproj.GenerateResource.Cache
+C:\Users\tech140\Documents\School\IntroToCSharp\changecounter\changecounter\bin\Debug\changecounter.exe
+C:\Users\tech140\Documents\School\IntroToCSharp\changecounter\changecounter\bin\Debug\changecounter.pdb
+C:\Users\tech140\Documents\School\IntroToCSharp\changecounter\changecounter\obj\Debug\changecounter.exe
+C:\Users\tech140\Documents\School\IntroToCSharp\changecounter\changecounter\obj\Debug\changecounter.pdb

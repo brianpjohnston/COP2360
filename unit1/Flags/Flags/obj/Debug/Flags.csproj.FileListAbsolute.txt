@@ -1,0 +1,8 @@
+C:\Users\tech140\Documents\School\IntroToCSharp\Flags\Flags\bin\Debug\Flags.exe.config
+C:\Users\tech140\Documents\School\IntroToCSharp\Flags\Flags\bin\Debug\Flags.exe
+C:\Users\tech140\Documents\School\IntroToCSharp\Flags\Flags\bin\Debug\Flags.pdb
+C:\Users\tech140\Documents\School\IntroToCSharp\Flags\Flags\obj\Debug\Flags.Form1.resources
+C:\Users\tech140\Documents\School\IntroToCSharp\Flags\Flags\obj\Debug\Flags.Properties.Resources.resources
+C:\Users\tech140\Documents\School\IntroToCSharp\Flags\Flags\obj\Debug\Flags.csproj.GenerateResource.Cache
+C:\Users\tech140\Documents\School\IntroToCSharp\Flags\Flags\obj\Debug\Flags.exe
+C:\Users\tech140\Documents\School\IntroToCSharp\Flags\Flags\obj\Debug\Flags.pdb

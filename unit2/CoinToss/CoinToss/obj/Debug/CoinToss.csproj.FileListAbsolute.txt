@@ -1,0 +1,9 @@
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\CoinToss\CoinToss\bin\Debug\CoinToss.exe.config
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\CoinToss\CoinToss\obj\Debug\CoinToss.csprojResolveAssemblyReference.cache
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\CoinToss\CoinToss\obj\Debug\CoinToss.Form1.resources
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\CoinToss\CoinToss\obj\Debug\CoinToss.Properties.Resources.resources
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\CoinToss\CoinToss\obj\Debug\CoinToss.csproj.GenerateResource.Cache
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\CoinToss\CoinToss\bin\Debug\CoinToss.exe
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\CoinToss\CoinToss\bin\Debug\CoinToss.pdb
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\CoinToss\CoinToss\obj\Debug\CoinToss.exe
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\CoinToss\CoinToss\obj\Debug\CoinToss.pdb

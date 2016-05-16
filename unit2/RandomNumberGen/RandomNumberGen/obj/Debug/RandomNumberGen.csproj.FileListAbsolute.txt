@@ -1,0 +1,9 @@
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\RandomNumberGen\RandomNumberGen\bin\Debug\RandomNumberGen.exe.config
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\RandomNumberGen\RandomNumberGen\bin\Debug\RandomNumberGen.exe
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\RandomNumberGen\RandomNumberGen\bin\Debug\RandomNumberGen.pdb
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\RandomNumberGen\RandomNumberGen\obj\Debug\RandomNumberGen.csprojResolveAssemblyReference.cache
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\RandomNumberGen\RandomNumberGen\obj\Debug\RandomNumberGen.Form1.resources
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\RandomNumberGen\RandomNumberGen\obj\Debug\RandomNumberGen.Properties.Resources.resources
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\RandomNumberGen\RandomNumberGen\obj\Debug\RandomNumberGen.csproj.GenerateResource.Cache
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\RandomNumberGen\RandomNumberGen\obj\Debug\RandomNumberGen.exe
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\RandomNumberGen\RandomNumberGen\obj\Debug\RandomNumberGen.pdb

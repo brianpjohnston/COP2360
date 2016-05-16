@@ -1,0 +1,9 @@
+C:\Users\tech140\Documents\School\IntroToCSharp\Color Theme\Color Theme\bin\Debug\Color Theme.exe.config
+C:\Users\tech140\Documents\School\IntroToCSharp\Color Theme\Color Theme\bin\Debug\Color Theme.exe
+C:\Users\tech140\Documents\School\IntroToCSharp\Color Theme\Color Theme\bin\Debug\Color Theme.pdb
+C:\Users\tech140\Documents\School\IntroToCSharp\Color Theme\Color Theme\obj\Debug\Color Theme.csprojResolveAssemblyReference.cache
+C:\Users\tech140\Documents\School\IntroToCSharp\Color Theme\Color Theme\obj\Debug\Color_Theme.Form1.resources
+C:\Users\tech140\Documents\School\IntroToCSharp\Color Theme\Color Theme\obj\Debug\Color_Theme.Properties.Resources.resources
+C:\Users\tech140\Documents\School\IntroToCSharp\Color Theme\Color Theme\obj\Debug\Color Theme.csproj.GenerateResource.Cache
+C:\Users\tech140\Documents\School\IntroToCSharp\Color Theme\Color Theme\obj\Debug\Color Theme.exe
+C:\Users\tech140\Documents\School\IntroToCSharp\Color Theme\Color Theme\obj\Debug\Color Theme.pdb

@@ -1,0 +1,9 @@
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\Time Zone\Time Zone\bin\Debug\Time Zone.exe.config
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\Time Zone\Time Zone\obj\Debug\Time Zone.csprojResolveAssemblyReference.cache
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\Time Zone\Time Zone\obj\Debug\Time_Zone.Form1.resources
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\Time Zone\Time Zone\obj\Debug\Time_Zone.Properties.Resources.resources
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\Time Zone\Time Zone\obj\Debug\Time Zone.csproj.GenerateResource.Cache
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\Time Zone\Time Zone\bin\Debug\Time Zone.exe
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\Time Zone\Time Zone\bin\Debug\Time Zone.pdb
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\Time Zone\Time Zone\obj\Debug\Time Zone.exe
+C:\Users\tech140\Documents\School\IntroToCSharp\unit2\Time Zone\Time Zone\obj\Debug\Time Zone.pdb
